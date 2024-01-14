@@ -17,7 +17,7 @@ Push_swap_tester est un outil conçu pour tester efficacement les programmes imp
 - Copier le contenu du repo directement dans votre dossier push_swap (au meme endroit que votre Makefile)
   ```bash
   cp -rf push_swap_tester/programme/* ./<votre chemin>
-- Lancer le scypte
+- Lancez le scypte
   ```bash
   sh push_swap_tester.sh
 - Suivres les instructions
