@@ -1,6 +1,6 @@
 # Push_swap_tester
 
-Push_swap_tester est un outil conçu pour tester efficacement les programmes implémentant l'algorithme de tri "push_swap". Ce programme est souvent utilisé dans le cadre du projet 42 de l'école 42 et vise à trier une pile d'entiers de manière optimale en utilisant un ensemble limité d'instructions.
+Push_swap_tester est un outil conçu pour tester efficacement les programmes implémentant l'algorithme de tri "push_swap". Ce programme est utilisable dans le cadre de l'école 42 et vise à trier une pile d'entiers de manière optimale en utilisant un ensemble limité d'instructions.
 
 ## Fonctionnalités
 
