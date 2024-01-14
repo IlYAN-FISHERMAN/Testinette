@@ -4,13 +4,16 @@ Push_swap_tester est un outil conçu pour tester efficacement les programmes imp
 
 ## Fonctionnalités
 
-- **Test Automatisé :** Évaluez la performance de votre programme push_swap en le soumettant à une batterie de tests automatisés.
+- **Test Automatisé :** Évaluez la performance de votre programme push_swap en le soumettant à une batterie de tests automatisés avec votre checker ou celui fournis de base.
   
-- **Analyse des Résultats :** Obtenez des statistiques détaillées sur les performances de votre programme, y compris le nombre d'instructions utilisées et le temps d'exécution.
+- **Analyse des Résultats :** Obtenez les resultats de votre push_swap, compris le nombre d'instructions utilisées et le temps d'exécution.
 
 - **Tests Personnalisés :** Possibilité d'ajouter vos propres jeux de tests pour évaluer les performances spécifiques de votre implémentation.
 
 ## Utilisation
+- lancer le scrypt
+- suivres les instructions
+- recommencer autant que vous voulez
 
 1. **Clonage du Repo :** Clonez ce repo dans le répertoire de votre projet push_swap.
 
