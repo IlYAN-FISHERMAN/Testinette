@@ -11,7 +11,7 @@ Push_swap_tester est un outil conçu pour tester efficacement les programmes imp
 - **Tests Personnalisés :** Possibilité d'ajouter vos propres jeux de tests pour évaluer les performances spécifiques de votre implémentation.
 
 ## Utilisation
-- Clonez le repo
+- **Clonage du Repo :** Clonez ce repo dans le répertoire de votre projet push_swap.
   ```bash
   git clone https://github.com/IlYAN-FISHERMAN/Push_swap_tester.git push_swap_tester
 - Copier le contenu du repo directement dans votre dossier push_swap (au meme endroit que votre Makefile)
@@ -22,8 +22,3 @@ Push_swap_tester est un outil conçu pour tester efficacement les programmes imp
   sh push_swap_tester.sh
 - Suivres les instructions
 - Recommencer autant que vous voulez :3
-
-1. **Clonage du Repo :** Clonez ce repo dans le répertoire de votre projet push_swap.
-
-```bash
-git clone https://github.com/IlYAN-FISHERMAN/Push_swap_tester.git
