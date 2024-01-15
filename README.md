@@ -13,10 +13,10 @@ Push_swap_tester est un outil conçu pour tester efficacement les programmes imp
 ## Utilisation
 - **Clonage du Repo :** Clonez ce repo
   ```bash
-  git clone https://github.com/IlYAN-FISHERMAN/Push_swap_tester.git push_swap_tester
+  git clone https://github.com/IlYAN-FISHERMAN/Push_swap_tester.git
 - Copier le contenu du repo directement dans votre dossier push_swap (au meme endroit que votre Makefile)
   ```bash
-  cp -rf push_swap_tester/programme/* ./<votre chemin>
+  cp -rf Push_swap_tester/programme/* ./<votre chemin>
 - Lancez le scypte
   ```bash
   sh push_swap_tester.sh
