@@ -16,9 +16,9 @@ Testinette est un outil conçu pour tester efficacement les programmes implémen
   git clone https://github.com/IlYAN-FISHERMAN/Testinette.git
 - Copier le contenu du repo directement dans votre dossier push_swap (au meme endroit que votre Makefile)
   ```bash
-  cp -rf Testinette/programme/* ./<votre chemin>
-- Lancez le scypte
+  cp -rf Testinette/* ./<votre chemin>
+- Lancez le scypte.
   ```bash
   sh testinette.sh
-- Suivres les instructions
-- Recommencer autant que vous voulez :3
+- Suivre les instructions.
+- Recommencez autant que vous voulez :3.
